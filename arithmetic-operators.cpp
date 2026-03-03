@@ -3,8 +3,13 @@
 using namespace std;
 int main()
 {
-    int a=11 , b=5;
-    
+    int a, b;
+    cout<<"enter first number: ";
+    cin>> a;
+
+    cout<<"enter second number: ";
+    cin>>b;
+
     cout<<"sum = "<<(a+b)<<"\n";
     cout<<"subtraction = "<<(a-b)<<"\n";
     cout<<"multiply = "<<(a*b)<<"\n";
