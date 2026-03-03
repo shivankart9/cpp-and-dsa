@@ -1,2 +1,16 @@
 # cpp-and-dsa
-In this repository i will be  uploading all the c++ codes that i will learn and also the data structures aferwards
+_**In this repository i will be  uploading all the c++ codes that i will learn and also the data structures aferwards**_
+<br>
+_**i am learning c++ and dsa from apna college playlist**_
+<br>
+**topics i had covered**
+<br>
+1-basic program
+<br>
+2-how to input
+<br>
+3-type casting
+<br>
+4-variables and data type 
+<br>
+5-operators like-arithmetic,relational,logical
