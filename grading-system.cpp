@@ -8,8 +8,7 @@ int main() {
 
     if(marks>=90) {
         cout<<"A GRADE";
-    } 
-    else if (marks<=90 && marks>=80) {
+    } else if (marks<=90 && marks>=80) {
         cout<<"B GRADE";
     } else {
         cout<<"C GRADE";
