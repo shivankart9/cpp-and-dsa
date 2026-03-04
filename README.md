@@ -1,5 +1,5 @@
 # cpp-and-dsa
-_**In this repository i will be  uploading all the c++ codes that i will learn and also the data structures aferwards**_
+_**In this repository i will be  uploading all the c++ codes that i will learn and also the data structures afterwards**_
 <br>
 _**i am learning c++ and dsa from apna college playlist**_
 <br>
@@ -13,4 +13,6 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 4-variables and data type 
 <br>
-5-operators like-arithmetic,relational,logical
+5-operators like-arithmetic,relational,logical,unary
+<br>
+6-conditional statement programs
