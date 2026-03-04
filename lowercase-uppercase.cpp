@@ -6,9 +6,9 @@ int main() {
     cout<<"enter a charcter : ";
     cin>>ch;
 
-    if (islower(ch)){
+    if (islower(ch)){ // other condition : (ch>='a' && ch<='z') , ()
         cout<<"entered character is lowercase"<<endl;
-    } else if (isupper(ch)){
+    } else if (isupper(ch)){ // other condition : (ch>='A' && ch<='Z')
         cout<<"entered character is uppercase"<<endl;
     } else {
         cout<<"wrong input"<<endl;
