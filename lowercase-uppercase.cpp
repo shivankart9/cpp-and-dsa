@@ -1,4 +1,4 @@
-// this programs tells whether enter character  is lower case or uppercase
+// this programs tells whether enter character  is lower case or uppercase [A-Z]=(65-90),[a-z]=(97-123)
 #include<iostream>
 using namespace std;
 int main() {
@@ -6,7 +6,7 @@ int main() {
     cout<<"enter a charcter : ";
     cin>>ch;
 
-    if (islower(ch)){ // other condition : (ch>='a' && ch<='z') , ()
+    if (islower(ch)){ // other condition : (ch>='a' && ch<='z')
         cout<<"entered character is lowercase"<<endl;
     } else if (isupper(ch)){ // other condition : (ch>='A' && ch<='Z')
         cout<<"entered character is uppercase"<<endl;
