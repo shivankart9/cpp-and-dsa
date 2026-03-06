@@ -16,3 +16,5 @@ _**i am learning c++ and dsa from apna college playlist**_
 5-operators like-arithmetic,relational,logical,unary
 <br>
 6-conditional statement programs
+<br>
+7-while loop

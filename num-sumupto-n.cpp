@@ -7,7 +7,7 @@ int main() {
     cin>>n;
     
     for(i=1;i<=n;i++) {
-       sum += i ; 
+       sum += i ; //sum =sum +i this is also same condition
     }
     cout<< sum << endl;
 
