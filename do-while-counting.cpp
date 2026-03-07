@@ -7,7 +7,7 @@ int main() {
     cin>>n;
 
     do {
-        cout<<i++<<endl;
+        cout<<i++<<endl;// also cout<<i<<endl ; i++;
     } while(i<=n) ;
     
     return 0;
