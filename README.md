@@ -5,6 +5,8 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 **topics i had covered**
 <br>
+**c++**
+<br>
 1-basic program
 <br>
 2-how to input
@@ -20,3 +22,5 @@ _**i am learning c++ and dsa from apna college playlist**_
 7-while loop
 <br>
 8-for loop
+**DSA**
+1-patterns
