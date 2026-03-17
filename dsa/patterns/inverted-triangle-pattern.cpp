@@ -1,4 +1,4 @@
-// this program prints the iverted triangle pattern of num using for loop
+// this program prints the inverted triangle pattern of num using for loop
 #include<iostream>
 using namespace std;
 int main() {
