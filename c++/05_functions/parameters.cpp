@@ -3,13 +3,13 @@
 using namespace std;
 
 // sum of two number
-int sum(int a, int b) {
+int sum(int a, int b) { //parameters
     int s=a+b;
     return s;
 }
 
 // min of two number
-int min(int a , int b) {
+int min(int a , int b) { //parametres
     if(a>b) {
         return b;
     } else if(b>a) {
@@ -20,8 +20,8 @@ int min(int a , int b) {
 }
 
 int main() {
-    cout <<"sum =" << sum(5,10)<<endl;
-    cout<< "minimum= " << min(3,8);
+    cout <<"sum =" << sum(5,10)<<endl; // arguments
+    cout<< "minimum= " << min(3,8); // arguments 
 
     return 0;
 }
