@@ -4,13 +4,13 @@ using namespace std;
 
 int changex(int x) {
     x = 2*x;
-    cout << "x = " << x << endl;
+    cout << "x = " << x << endl; //10
 }
 
 int main() {
     int x = 5;
     changex(x);
 
-    cout<< "x = " << x << endl;
+    cout<< "x = " << x << endl; //5
     return 0;
 }
