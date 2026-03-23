@@ -23,6 +23,7 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 8-for loop
 <br>
+9 -functuions 
 <br>
 **DSA**
 <br>
