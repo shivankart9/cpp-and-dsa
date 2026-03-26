@@ -7,23 +7,17 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 **c++**
 <br>
-1-basic program
+1-basics
 <br>
-2-how to input
+2-operators
 <br>
-3-type casting
+3-conditional
 <br>
-4-variables and data type 
+4-loops
 <br>
-5-operators like-arithmetic,relational,logical,unary
+5-functions
 <br>
-6-conditional statement programs
-<br>
-7-while loop
-<br>
-8-for loop
-<br>
-9 -functuions 
+6-binary number system
 <br>
 **DSA**
 <br>
