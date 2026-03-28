@@ -1,11 +1,11 @@
 # cpp-and-dsa
 _**In this repository i will be  uploading all the c++ codes that i will learn and also the data structures afterwards**_
 <br>
-_**i am learning c++ and dsa from apna college playlist**_
+_**I am learning c++ and dsa from apna college playlist**_
 <br>
-**topics i had covered**
+# topics i had covered
 <br>
-**c++**
+# c++
 <br>
 1-basics
 <br>
@@ -21,6 +21,6 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 7-bitwise-operators
 <br>
-**DSA**
+# DSA
 <br>
 1-patterns
