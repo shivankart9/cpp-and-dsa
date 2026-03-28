@@ -19,6 +19,8 @@ _**i am learning c++ and dsa from apna college playlist**_
 <br>
 6-binary number system
 <br>
+7-bitwise-operators
+<br>
 **DSA**
 <br>
 1-patterns
