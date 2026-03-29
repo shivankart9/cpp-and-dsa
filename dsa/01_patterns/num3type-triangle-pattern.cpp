@@ -1,0 +1,15 @@
+// this program gives the same output as same as  the 2 type but it is different code
+#include<iostream>
+using namespace std;
+int main() {
+    int i,j;
+
+    for(i=0;i<4;i++) {
+        for(j=1;j<=i+1;j++) {
+            cout<<j;
+        }
+        cout<<endl;
+    }
+
+    return 0;
+}
