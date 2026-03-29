@@ -5,6 +5,7 @@ _**I am learning c++ and dsa from apna college playlist**_
 <br>
 # topics i had covered
 <br>
+
 # c++
 <br>
 1-basics
@@ -21,6 +22,11 @@ _**I am learning c++ and dsa from apna college playlist**_
 <br>
 7-bitwise-operators
 <br>
+8-scope
+<br>
+9-data-type-modifiers
+<br>
+
 # DSA
 <br>
 1-patterns
