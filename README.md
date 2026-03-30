@@ -30,3 +30,6 @@ _**I am learning c++ and dsa from apna college playlist**_
 # DSA
 <br>
 1-patterns
+<br>
+2-arrays
+<br>
