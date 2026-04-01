@@ -8,7 +8,7 @@ int linearsearch(int arr[] , int sz, int target) {
             return i;
         }
     }
-    return -1;
+    return -1; // not found
 }
 
 int main() {
