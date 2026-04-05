@@ -6,36 +6,24 @@ _**I am learning c++ and dsa from apna college playlist**_
 # topics i had covered
 <br>
 
-# c++
-<br>
-1-basics
-<br>
-2-operators
-<br>
-3-conditional
-<br>
-4-loops
-<br>
-5-functions
-<br>
-6-binary number system
-<br>
-7-bitwise-operators
-<br>
-8-scope
-<br>
-9-data-type-modifiers
-<br>
+# topics i had covered
 
-# DSA
-<br>
-1-patterns
-<br>
-2-arrays
-<br>
-    i-subarray
-<br>
-3-vectors
-<br>
-    i-leetcode question
-<br>
+## C++
+- 1-basics
+- 2-operators
+- 3-conditionals
+- 4-loops
+- 5-functions
+- 6-binary number system
+- 7-bitwise-operators
+- 8-scope
+- 9-data-type-modifiers
+
+---
+
+## DSA
+- 1-patterns
+- 2-arrays
+  - i-subarray
+- 3-vectors
+  - i-leetcode question
