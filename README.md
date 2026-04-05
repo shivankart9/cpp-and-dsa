@@ -33,5 +33,9 @@ _**I am learning c++ and dsa from apna college playlist**_
 <br>
 2-arrays
 <br>
+    i-subarray
+<br>
 3-vectors
+<br>
+    i-leetcode question
 <br>
