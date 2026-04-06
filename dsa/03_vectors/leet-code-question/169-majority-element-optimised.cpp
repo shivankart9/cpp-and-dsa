@@ -1,4 +1,4 @@
-// this is the solution of 136 majority element leet code question this solution is more optised
+// this is the solution of 136 majority element leet code question this solution is more optimised
 #include<iostream>
 #include<vector>
 #include<algorithm> // used for using sort
