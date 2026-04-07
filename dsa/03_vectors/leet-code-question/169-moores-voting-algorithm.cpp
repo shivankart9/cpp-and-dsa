@@ -5,9 +5,9 @@ using namespace std;
 
 int majorityelement(vector<int>& nums) {
     int freq = 0, ans = 0;
-    for(int i = 0; i < nums.size(); i++) {
+    for(int i = 0; i < nums.size(); i++) { // also we can use for(int val : nums) then nums[i] = val
         if(freq == 0) {
-            ans = nums[i];
+            ans = nums[i]; 
         }
         if(ans == nums[i]) {
             freq++;
