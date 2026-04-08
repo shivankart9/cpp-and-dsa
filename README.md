@@ -25,10 +25,16 @@ _**I am learning c++ and dsa from apna college playlist**_
 - 1-patterns
 - 2-arrays
   - i-subarray
-  - ## imp 
-  - kadanes algorithm
+    - print-all-subarray
+    - maximum-subarray-sum
+    - ## imp 
+    - kadanes algorithm
 - 3-vectors
   - i-leetcode question
-  - ## imp
-  - 136 - single number
-  - 169 - majority element moore's voting algorithm
+    - 26-remove-duplicates
+    - 29-remove-element
+    - 136-single-number
+    - 217-contains-duplicate
+    - ## imp
+    - 169 - majority element moore's voting algorithm
+
