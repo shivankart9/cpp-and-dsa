@@ -21,7 +21,7 @@ bool containsduplicate(vector<int>& nums) {
 int main() {
     vector<int> nums = {2,3,4,5};
 
-    cout << "there is  duplicate : " << boolalpha << containsduplicate(nums) << endl;
+    cout << "there is  duplicate : " << boolalpha << containsduplicate(nums) << endl; // boolalpha is for printing true and false instead of printing 0 and 1 for true and false
 
     return 0;
 }
