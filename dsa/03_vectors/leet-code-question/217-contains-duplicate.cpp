@@ -10,7 +10,7 @@ bool containsduplicate(vector<int>& nums) {
         return false;
     }
     sort(nums.begin(),nums.end());
-    for(int i = 1 ; i < nums.size(); i++) {
+    for(int i = 1 ; i < nums.size(); i++) {g
         if(nums[i] == nums[i-1]) {
             return true;
         }
