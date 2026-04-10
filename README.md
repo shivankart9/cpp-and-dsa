@@ -35,6 +35,8 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 29-remove-element
     - 136-single-number
     - 217-contains-duplicate
+    - 2824-count pairs lesser than target
+    - 50-pow(x,n)
     - ## imp
     - 169 - majority element moore's voting algorithm
 
