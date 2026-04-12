@@ -38,6 +38,7 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 2824-count pairs lesser than target
     - 50-pow(x,n)
     - 121-buy and sell
+    - 11-container with most water
     - ## imp
     - 169 - majority element moore's voting algorithm
 
