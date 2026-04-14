@@ -40,6 +40,7 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 121-buy and sell
     - 11-container with most water
     - 35-search insert position
+    - 238-product of array except self
     - ## imp
     - 169 - majority element moore's voting algorithm
 
