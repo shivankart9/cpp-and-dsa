@@ -18,6 +18,7 @@ _**I am learning c++ and dsa from apna college playlist**_
 - 7-bitwise-operators
 - 8-scope
 - 9-data-type-modifiers
+- 10-pointers
 
 ---
 
@@ -41,6 +42,7 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 11-container with most water
     - 35-search insert position
     - 238-product of array except self
+    - 66-plus one
     - ## imp
     - 169 - majority element moore's voting algorithm
 
