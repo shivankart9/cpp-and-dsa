@@ -44,6 +44,7 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 238-product of array except self
     - 66-plus one
     - 88-merge sorted array
+    - 704-binary search
 
     - ## imp
     - 169 - majority element moore's voting algorithm
