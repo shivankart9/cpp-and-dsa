@@ -45,7 +45,7 @@ _**I am learning c++ and dsa from apna college playlist**_
     - 66-plus one
     - 88-merge sorted array
     - 704-binary search
-
-    - ## imp
+    - 3904/3903-smallest stable index 
+    - 33-search in rotated sorted array
     - 169 - majority element moore's voting algorithm
 
