@@ -23,31 +23,12 @@ _**I am learning c++ and dsa from apna college playlist**_
 ---
 
 ## DSA
-- 1-patterns
-- 2-arrays
+- patterns
+- arrays
   - i-subarray
     - print-all-subarray
     - maximum-subarray-sum
     - ## imp 
     - kadanes algorithm
-- 3-vectors
-  - i-leetcode question
-    - 169-majority element moore's voting algorithm
-    - 26-remove-duplicates
-    - 29-remove-element
-    - 136-single-number
-    - 217-contains-duplicate
-    - 2824-count pairs lesser than target
-    - 50-pow(x,n)
-    - 121-buy and sell
-    - 11-container with most water
-    - 35-search insert position
-    - 238-product of array except self
-    - 66-plus one
-    - 88-merge sorted array
-    - 704-binary search
-    - 3904/3903-smallest stable index 
-    - 33-search in rotated sorted array
-    - 852-peak index mountain array
-
-
+- vectors
+- leetcode questions
