@@ -6,7 +6,13 @@
 using namespace std;
 
 int uniqueelement(vector<int>& nums) {
-    int st = 0, end = nums.size() - 1;
+    int n = nums.size();
+
+    if (n == 1) return nums[0];
+    if (nums[0] != nums[1]) return nums[0];
+    if (nums[n-1] != nums[n-2]) return nums[n-1];
+    
+    int st = 0, end = n - 1;
 
     while(st <= end) {
             int mid = st + (end - st) / 2;

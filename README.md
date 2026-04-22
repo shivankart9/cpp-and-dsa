@@ -1,34 +1,29 @@
-# cpp-and-dsa
-_**In this repository i will be  uploading all the c++ codes that i will learn and also the data structures afterwards**_
+# **CPP-AND-DSA**
+_In this repository i will be  uploading all the c++ codes that i will learn and also the data structures and algorithms afterwards_
 <br>
-_**I am learning c++ and dsa from apna college playlist**_
+## **source**
+[APNA COLLEGE PLAYLIST C++ AND DSA](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=xZl2GqyG9_mix1Ac)
 <br>
-# topics i had covered
-<br>
+## **Topics i had covered**
 
-# topics i had covered
+### **1 - C++**
 
-## C++
-- 1-basics
-- 2-operators
-- 3-conditionals
-- 4-loops
-- 5-functions
-- 6-binary number system
-- 7-bitwise-operators
-- 8-scope
-- 9-data-type-modifiers
-- 10-pointers
+- _basics_
+- _operators_
+- _conditionals_
+- _loops_
+- _functions_
+- _binary number system_
+- _bitwise-operators_
+- _scope_
+- _data-type-modifiers_
+- _pointers_
 
 ---
 
-## DSA
-- patterns
-- arrays
-  - i-subarray
-    - print-all-subarray
-    - maximum-subarray-sum
-    - ## imp 
-    - kadanes algorithm
-- vectors
-- leetcode questions
+### **2 - DSA**
+
+- _patterns_
+- _arrays_
+- _vectors_
+- _leetcode questions_
