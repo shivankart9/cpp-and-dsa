@@ -1,9 +1,7 @@
 # **CPP-AND-DSA**
 _In this repository i will be  uploading all the c++ codes that i will learn and also the data structures and algorithms afterwards_
 <br>
-## **source**
-[APNA COLLEGE PLAYLIST C++ AND DSA](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=xZl2GqyG9_mix1Ac)
-<br>
+
 ## **Topics i had covered**
 
 ### **1 - C++**
@@ -18,7 +16,7 @@ _In this repository i will be  uploading all the c++ codes that i will learn and
 - _scope_
 - _data-type-modifiers_
 - _pointers_
-
+- _standard template library_
 ---
 
 ### **2 - DSA**
