@@ -1,4 +1,4 @@
-// this program explai us how reverse lgorithm works
+// this program explain us how reverse algorithm works. reverse algorithm reverse the value
 #include<iostream>
 #include<algorithm>
 #include<vector>
